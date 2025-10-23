@@ -40,6 +40,6 @@ if(jugador === "💎" || jugador === "📄" || jugador === "✂️"){
 
 
 }else{     
-    alert("opcion invalida 👨‍🦽")
+    alert("opcion invalida 👨‍🦽") 
 }
 
